@@ -16,6 +16,7 @@ public class Test1 {
         for(int i=0;i<planGC.length;i++){
             actualGC[i+2] = planGC[i];
         }
+        /*jiushi*/
         System.out.println(Arrays.toString(actualGC));
     }
 }
